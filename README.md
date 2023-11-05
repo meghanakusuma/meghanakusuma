@@ -4,7 +4,7 @@ Meghana
 <p><Meghana> is a passionate DevOps Engineer from India, working on Cloud and DevOps Projects as Intern.</p>
 <h1 align="center"> Hi there! </h1>
 <p align="center">I'm <strong>Meghana </strong>, a passionate <strong>DevOps Engineer</strong> from India. Welcome to my GitHub profile! 🚀</p>
-<img align="right" height="150rem" alt="" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
+<img align="right" height="150rem" alt="GIF" src="https://dribbble.com/shots/17188530-Female-working-on-a-computer-Animation-explainer-video" />
 
 <h3 align="center"> About Me 🌟</h3>
 <p align="center">I'm an enthusiast in automating things, scripting, and finding efficient solutions to complex problems. My goal is to make the world of technology more accessible and streamlined for everyone.</p>
