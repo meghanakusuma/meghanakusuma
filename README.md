@@ -44,4 +44,4 @@ Meghana
 </div>
 
 
-<p align="center">Feel free to reach out if you have any questions or just want to connect. Let's make the world more automated and efficient together! 🤝</p>
+<p align="center">Feel free to reach out if you have any questions or just want to connect. 🤝</p>
