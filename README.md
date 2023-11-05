@@ -37,7 +37,6 @@ Meghana
 </p>
 <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
 </p>
 <div style="text-align: center;">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30%">
