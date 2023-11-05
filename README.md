@@ -1,7 +1,7 @@
 Meghana
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Meghana </h1>
 
-<p><Meghana> is a passionate DevOps Engineer from India, working on Cloud and DevOps Projects as Intern.</p>
+<p><Meghana> Is a passionate DevOps Engineer from India, working on Cloud and DevOps Projects as Intern.</p>
 <h1 align="center"> Hi there! </h1>
 <p align="center">I'm <strong>Meghana </strong>, a passionate <strong>DevOps Engineer</strong> from India. Welcome to my GitHub profile! 🚀</p>
 <img align="right" height="150rem" alt="GIF" src="https://www.majormag.in/wp-content/uploads/2023/03/woman-working.gif"/>
