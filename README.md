@@ -36,10 +36,10 @@ Meghana
   </a>
 </p>
 <p align="center">
-  Visitor count<br>
+  <br>
 </p>
 <div style="text-align: center;">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30%">
+  
 </div>
 
 
