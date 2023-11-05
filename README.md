@@ -20,7 +20,6 @@ Meghana
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
   <img src="https://img.shields.io/badge/-GitLab-FFCA28?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
 </p>
 
